@@ -39,9 +39,9 @@ This Power BI dashboard provides an in-depth analysis of **Monthly Energy Consum
 
 ---
 
-## 📈 Dashboard Visualizations
+## Dashboard Visualizations
 
-### 🧾 KPI Cards
+###  KPI Cards
 - Total Energy Used (kWh)
 - Average Daily Energy
 - Max Daily Energy
@@ -52,7 +52,7 @@ This Power BI dashboard provides an in-depth analysis of **Monthly Energy Consum
 - Avg Indoor Temperature (°C)
 - Avg Indoor Humidity (g/m³)
 
-### 📊 Graphs and Charts
+### Graphs and Charts
 - Month-wise Energy Consumption (Appliances & Lights)
 - Energy Usage by Weekday
 - Inside vs Outside Temperature Comparison
@@ -64,7 +64,7 @@ This Power BI dashboard provides an in-depth analysis of **Monthly Energy Consum
 
 ---
 
-## 🧠 DAX Highlights
+## DAX Highlights
 
 Example measures used in the dashboard:
 
