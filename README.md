@@ -5,13 +5,13 @@
 
 
 
-## 📝 Overview
+##  Overview
 
 This Power BI dashboard provides an in-depth analysis of **Monthly Energy Consumption** using sensor-based data that includes appliance energy usage, temperature, humidity, weather conditions, and light consumption. The primary goal is to monitor, analyze, and visualize patterns that can drive energy efficiency and consumption awareness.
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ### 🔹 Layer 1: Data Loading
 - Source: SQL Server / CSV File
@@ -25,12 +25,11 @@ This Power BI dashboard provides an in-depth analysis of **Monthly Energy Consum
 
 ---
 
-## 🧮 Target & Features
 
-### 🎯 Target Variable
+###  Target Variable
 - **Appliances** – Energy usage in watt-hours (Wh)
 
-### 📌 Key Features
+###  Key Features
 - **Temperature**: T1–T9 (indoor), T_out (outdoor)
 - **Humidity**: RH_1–RH_9 (indoor), RH_out (outdoor)
 - **Weather**: Pressure, Windspeed, Visibility, Dew Point
